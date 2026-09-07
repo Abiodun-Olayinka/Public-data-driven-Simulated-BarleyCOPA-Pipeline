@@ -1,0 +1,22 @@
+sites:
+  - name: KWS_Prosselsheim
+    lat: 49.8543
+    lon: 10.1011
+  - name: Nordic_Seed_Nienstaedt
+    lat: 52.2932
+    lon: 9.1492
+  - name: Bauer_Riekofen
+    lat: 48.9156
+    lon: 12.3560
+  - name: Limagrain_Peine
+    lat: 52.3027
+    lon: 10.1746
+  - name: Nordsaat_Gudow
+    lat: 53.5578
+    lon: 10.7974
+  - name: Secobra_Lemgo
+    lat: 52.0116
+    lon: 8.8730
+  - name: Secobra_Moosburg
+    lat: 48.4797
+    lon: 11.9091

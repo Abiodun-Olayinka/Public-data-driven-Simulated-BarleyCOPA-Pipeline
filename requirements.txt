@@ -1,0 +1,2 @@
+wetterdienst>=0.100
+pandas>=2.0

@@ -1,0 +1,12 @@
+name: barleycopa-public
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.10
+  - pandas
+  - pip
+  - bcftools
+  - plink2
+  - pip:
+      - wetterdienst

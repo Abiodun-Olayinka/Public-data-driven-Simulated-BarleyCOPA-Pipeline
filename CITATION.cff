@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: Public-data-driven Simulated BarleyCOPA Pipeline
+message: If you use this software, please cite it.
+type: software
+authors:
+  - family-names: Olayinka
+    given-names: Abiodun
+repository-code: https://github.com/Abiodun-Olayinka/Public-data-driven-Simulated-BarleyCOPA-Pipeline
+license: MIT
+version: 1.0.0
+date-released: 2026-09-07
