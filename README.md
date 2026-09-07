@@ -66,3 +66,13 @@ This repo: CITATION.cff
 ## License
 
 MIT — see LICENSE.
+
+## Example results and figures
+
+See results/examples/ and docs/04_results_summary.md.
+
+## Full analysis outputs (DOI)
+
+bash scripts/utils/package_for_zenodo.sh
+
+Full analysis outputs: DOI pending — replace after Zenodo/Figshare deposit.

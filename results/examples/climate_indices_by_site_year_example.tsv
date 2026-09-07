@@ -1,0 +1,13 @@
+site	year	tmean_mean	tmax_mean	hot_days_gt25	precip_sum	rainy_days
+Nordsaat_Gudow	2020	10.41	15.07	37	677.6	118
+Nordsaat_Gudow	2021	9.40	13.80	38	735.9	126
+Nordsaat_Gudow	2022	10.27	15.24	48	639.5	107
+Limagrain_Peine	2020	11.29	15.54	38	526.7	99
+Limagrain_Peine	2021	10.11	14.13	41	627.9	94
+Limagrain_Peine	2022	11.28	15.84	56	535.7	114
+Nordic_Seed_Nienstaedt	2020	11.53			532.0	102
+Nordic_Seed_Nienstaedt	2021	10.50			570.8	112
+Nordic_Seed_Nienstaedt	2022	11.49			516.2	106
+Secobra_Lemgo	2020	10.70	14.95	39	692.8	122
+Secobra_Lemgo	2021	9.91	14.01	35	692.9	123
+Secobra_Lemgo	2022	11.49	16.01	43	692.8	122

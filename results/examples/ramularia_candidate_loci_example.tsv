@@ -1,5 +1,5 @@
-trait	SNP	chromosome	position_bp	note
-Ramularia	chr3H_117530271_C_T	3H	117530271	Illustrative Elite concordant locus
-Ramularia	chr2H_201244673_G_A	2H	201244673	Illustrative Elite concordant locus
-Ramularia	chr6H_259842824_T_C	6H	259842824	Illustrative Elite concordant locus
-Ramularia	chr6H_250730963_C_T	6H	250730963	Illustrative Elite concordant locus
+trait	SNP	chromosome	position_bp	allele_freq	p_mlma	p_loco	evidence
+Ramularia	chr3H_117530271_C_T	3H	117530271	0.942	5.81e-06	9.63e-06	MLMA+LOCO p<1e-5; n=128 Elite
+Ramularia	chr2H_201244673_G_A	2H	201244673	0.053	7.48e-06	7.53e-06	MLMA+LOCO p<1e-5; n=128 Elite
+Ramularia	chr6H_259842824_T_C	6H	259842824	0.082	7.59e-06	1.76e-06	MLMA+LOCO p<1e-5; n=128 Elite
+Ramularia	chr6H_250730963_C_T	6H	250730963	0.153	9.00e-06	2.65e-06	MLMA+LOCO p<1e-5; n=128 Elite
