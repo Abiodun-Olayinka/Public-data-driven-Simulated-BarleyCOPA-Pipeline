@@ -75,4 +75,6 @@ See results/examples/ and docs/04_results_summary.md.
 
 bash scripts/utils/package_for_zenodo.sh
 
-Full analysis outputs: DOI pending — replace after Zenodo/Figshare deposit.
+**Full analysis outputs:** [https://doi.org/10.5281/zenodo.22603181](https://doi.org/10.5281/zenodo.22603181)
+
+Olayinka, A. (2026). Public-data-driven Simulated BarleyCOPA Pipeline: Full Analysis Results [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22603181

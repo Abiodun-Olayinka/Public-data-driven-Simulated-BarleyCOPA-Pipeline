@@ -44,3 +44,11 @@ Figure: figures/pathogen_pca_example.png
 
 Run: bash scripts/utils/package_for_zenodo.sh
 Upload the tar.gz to Zenodo or Figshare, then put the DOI in the README.
+
+## Zenodo deposit
+
+Full curated analysis outputs (tables/plots package; no multi-GB VCFs):
+
+**https://doi.org/10.5281/zenodo.22603181**
+
+Olayinka, A. (2026). Public-data-driven Simulated BarleyCOPA Pipeline: Full Analysis Results [Data set]. Zenodo.
