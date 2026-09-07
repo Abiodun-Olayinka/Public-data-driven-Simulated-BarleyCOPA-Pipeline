@@ -1,0 +1,6 @@
+rule all:
+    input: "results/examples/PLACEHOLDER"
+
+rule setup:
+    output: touch("results/examples/PLACEHOLDER")
+    shell: "bash scripts/00_setup_dirs.sh && bash scripts/utils/check_tools.sh"
